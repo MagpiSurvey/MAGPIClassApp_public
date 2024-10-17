@@ -10,7 +10,7 @@ Not included: mini-images, StellKinMaps and GasKinMaps files for space and propr
 
 Note from the author: You are welcome to use the code herein as a basis for creating your own application. If you have found this useful, we would be grateful for an acknowledgement.
 
-Working version of the app is deployed at https://unsw.shinyapps.io/KinematicsClassApp/
+Working version of the app is deployed at https://unsw.shinyapps.io/KinematicsClassApp/ while paid account lasts. Screenshots of the app are included for future reference.
 
 Dependencies: 
 shiny (available on CRAN),
